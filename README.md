@@ -2,7 +2,10 @@
 
 Overlays UTR (Universal Tennis Rating) on USTA NorCal league pages — shows singles and doubles ratings next to player names on rosters, scorecards, and player profiles.
 
+<img width="254" height="214" alt="Screenshot 2026-05-13 at 10 09 45 PM" src="https://github.com/user-attachments/assets/b99c628f-3e9f-4bad-893a-6df726904acd" />
+
 ## Install
+
 
 1. **Download the latest release `utr_extension.zip`** → [Releases](../../releases)
 2. **Unzip** the file
