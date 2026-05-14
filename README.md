@@ -4,7 +4,7 @@ Overlays UTR (Universal Tennis Rating) on USTA NorCal league pages — shows sin
 
 ## Install
 
-1. **Download the latest release** → [Releases](../../releases)
+1. **Download the latest release `utr_extension.zip`** → [Releases](../../releases)
 2. **Unzip** the file
 3. Open Chrome → `chrome://extensions/`
 4. Enable **Developer mode** (top-right)
